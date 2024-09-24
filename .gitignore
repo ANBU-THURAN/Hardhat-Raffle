@@ -1,0 +1,10 @@
+.prettierrc
+.env
+node_modules
+artifacts
+cache
+.vscode
+coverage.json
+coverage
+typechain-types
+deployments
